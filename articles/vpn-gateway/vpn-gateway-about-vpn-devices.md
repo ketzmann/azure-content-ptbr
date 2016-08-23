@@ -61,7 +61,7 @@ Para ajudar a configurar seu dispositivo VPN, veja os links que correspondem à 
 | AG de sistemas abertos | Gateway de Segurança de Controle de Missão | N/D | [Guia de instalação](https://www.open.ch/_pdf/Azure/AzureVPNSetup_Installation_Guide.pdf) | [Guia de instalação](https://www.open.ch/_pdf/Azure/AzureVPNSetup_Installation_Guide.pdf) |
 | Openswan | Openswan | 2\.6.32 | (Em breve) | Não compatível |
 | Redes Palo Alto | Todos os dispositivos executando PAN-OS | PAN-OS 6.1.5 ou posterior (baseado em políticas), PAN-OS 7.0.5 ou posterior (baseado em rota) | [Instruções de configuração](https://live.paloaltonetworks.com/t5/Configuration-Articles/How-to-Configure-VPN-Tunnel-Between-a-Palo-Alto-Networks/ta-p/59065) | [Instruções de configuração](https://live.paloaltonetworks.com/t5/Integration-Articles/Configuring-IKEv2-VPN-for-Microsoft-Azure-Environment/ta-p/60340) |
-| Watchguard | Todos | Fireware XTM v11.x | [Instruções de configuração](http://customers.watchguard.com/articles/Article/Configure-a-VPN-connection-to-a-Windows-Azure-virtual-network/) | Não compatível |
+| Watchguard | Todos | Fireware XTM v11.x | [Instruções de configuração](http://customers.watchguard.com/articles/Article/Configure-a-VPN-connection-to-a-Windows-Azure-virtual-network/) | Compativel na versão 11.11.2 ou superior |
 
 (*) Os roteadores da Série ISR 7200 só oferecem suporte a VPNs baseadas em política.
 
